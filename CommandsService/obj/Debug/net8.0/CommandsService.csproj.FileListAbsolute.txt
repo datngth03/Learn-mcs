@@ -134,3 +134,4 @@ D:\WorkSpace\Personal\Microservice\learn_mcs\CommandsService\obj\Debug\net8.0\re
 D:\WorkSpace\Personal\Microservice\learn_mcs\CommandsService\obj\Debug\net8.0\CommandsService.pdb
 D:\WorkSpace\Personal\Microservice\learn_mcs\CommandsService\obj\Debug\net8.0\CommandsService.genruntimeconfig.cache
 D:\WorkSpace\Personal\Microservice\learn_mcs\CommandsService\obj\Debug\net8.0\ref\CommandsService.dll
+D:\WorkSpace\Personal\Microservice\learn_mcs\CommandsService\obj\Debug\net8.0\CommandsService.sourcelink.json

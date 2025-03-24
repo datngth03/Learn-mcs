@@ -16,8 +16,6 @@ namespace CommandsService.Controllers
     {
         private readonly ICommandRepo _repository;
         private readonly IMapper _mapper;
-
-
         public CommandsController(ICommandRepo repository, IMapper mapper)
         {
             _repository = repository;
@@ -78,7 +76,5 @@ namespace CommandsService.Controllers
             return CreatedAtRoute(nameof(GetCommandForPlatform),
                 new { platformId = platformId, commandId = commandReadDto.Id }, commandReadDto);
         }
-
-
     }
 }
