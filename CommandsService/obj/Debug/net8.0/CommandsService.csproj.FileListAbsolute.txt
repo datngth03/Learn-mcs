@@ -135,3 +135,5 @@ D:\WorkSpace\Personal\Microservice\learn_mcs\CommandsService\obj\Debug\net8.0\Co
 D:\WorkSpace\Personal\Microservice\learn_mcs\CommandsService\obj\Debug\net8.0\CommandsService.genruntimeconfig.cache
 D:\WorkSpace\Personal\Microservice\learn_mcs\CommandsService\obj\Debug\net8.0\ref\CommandsService.dll
 D:\WorkSpace\Personal\Microservice\learn_mcs\CommandsService\obj\Debug\net8.0\CommandsService.sourcelink.json
+D:\WorkSpace\Personal\Microservice\learn_mcs\CommandsService\bin\Debug\net8.0\appsettings.Production.json
+D:\WorkSpace\Personal\Microservice\learn_mcs\CommandsService\bin\Debug\net8.0\RabbitMQ.Client.dll
